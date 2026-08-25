@@ -15,7 +15,7 @@
     "test:security": "tsx --test tests/monitorSecurity.test.ts",
     "test:timeline": "tsx --test tests/monitorTimeline.test.ts",
     "typecheck:functions": "tsc -p tsconfig.functions.json",
-    "deploy": "npm run build && wrangler pages deploy dist"
+    "deploy": "npm run build && wrangler pages deploy dist --project-name uptimeworker"
   },
   "dependencies": {
     "class-variance-authority": "^0.7.0",
