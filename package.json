@@ -23,15 +23,15 @@
     "lucide-react": "^0.576.0",
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
-    "react-router-dom": "^7.18.1",
+    "react-router-dom": "^7.18.3",
     "tailwind-merge": "^3.5.0"
   },
   "devDependencies": {
-    "@cloudflare/vite-plugin": "1.49.0",
+    "@cloudflare/vite-plugin": "1.54.2",
     "@cloudflare/workers-types": "^5.20260716.1",
     "@types/node": "^22.14.0",
-    "@types/react": "^19.2.14",
-    "@types/react-dom": "^19.2.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.5",
     "@vitejs/plugin-react": "^5.1.4",
     "autoprefixer": "^10.5.0",
     "concurrently": "^9.2.4",
@@ -43,7 +43,7 @@
     "tsx": "^4.20.6",
     "typescript": "~5.9.3",
     "vite": "^6.4.3",
-    "wrangler": "4.116.0"
+    "wrangler": "4.127.1"
   },
   "overrides": {
     "@babel/core": "7.29.7",
